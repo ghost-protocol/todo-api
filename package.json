@@ -1,0 +1,23 @@
+{
+<<<<<<< HEAD
+  "name": "web-server",
+=======
+  "name": "todo-api",
+>>>>>>> Add POST for todos
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "^4.13.2"
+=======
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+>>>>>>> Add POST for todos
+  }
+}
