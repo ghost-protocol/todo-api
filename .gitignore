@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-node_modules/
-=======
 node_modules/
 server1.js
 server2.js
->>>>>>> Add POST for todos
+server3.js
