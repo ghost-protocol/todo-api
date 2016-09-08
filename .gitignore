@@ -2,3 +2,4 @@ node_modules/
 server1.js
 server2.js
 server3.js
+data/*.sqlite
